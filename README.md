@@ -1,4 +1,4 @@
-#DAAP Homework 1 – Source Localization with Delay-and-Sum Beamforming
+# DAAP Homework 1 – Source Localization with Delay-and-Sum Beamforming
 ##Purpose of the Project
 
 This project aims to perform acoustic source localization using a Uniform Linear Array (ULA) with 16 microphones.
